@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82dbbe161855ad045a78e1b52ac00859
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - feet: {instanceID: 0}
+  - sprite: {instanceID: 0}
+  - healthOutlineColour: {fileID: 2800000, guid: 66956cc9028ebc8439dc9a5c9dd077ba,
+      type: 3}
+  - healthEmptyColour: {fileID: 2800000, guid: 2c46320c31619b449ad61f436e28cc8e, type: 3}
+  - healthHitColour: {fileID: 2800000, guid: d72f705182013ca40b885ade65840472, type: 3}
+  - healthColour: {fileID: 2800000, guid: 0021514525bd91e42aa8ab63a40ece99, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
